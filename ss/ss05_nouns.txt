@@ -1,0 +1,37 @@
+
+NOUNS M/WA REGULAR
+singular;       plural;         english
+mdudu;          wadudu;         insect, bug
+mganga;         waganga;        doctor, witchdoctor
+mgeni;          wageni;         visitor, guest, stranger, newcomer
+mgonjwa;        wagonjwa;       sick person, patient
+mnyama;         wanyama;        animal
+mpishi;         wapishi;        cook
+mtoto;          watoto;         child
+mtumishi;       watumishi;      servant
+mwalimu;        walimu;         teacher
+mwana;          wana;           son or daughter
+mwanafunzi;     wanafunzi;      student
+mwenyeji;       wenyeji;        inhabitant, householder
+mwizi;          wezi;           thief
+mzee;           wazee;          old person, elder
+Mzungu;         Wazungu;        white person
+
+NOUNS M/WA NATIONALITIES
+singular;       plural;         english
+Mfaransa;       Wafaranza;      French person
+Mdachi;         Wadachi;        German person
+Mholanzi;       Waholanzi;      Dutch person
+Mgiriki;        Wagiriki;       Greek person
+Mwafrika;       Waafrika;       African person
+Mwamerika;      Waamerika;      American person
+Mwarabu;        Waarabu;        Arab person
+Mwingereza;     Waingereza;     British person
+Mwitalia;       Waitalia;       Italian person
+
+
+NOUNS M/WA IRREGULAR
+singular;       plural;         english
+mwindaji;       wawindaji;      hunter
+mwanamke        wanawake;       woman
+mwanamume;      wanaume;        man

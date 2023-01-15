@@ -1,0 +1,51 @@
+ss03_verbs.txt
+
+REGULAR VERBS
+infinitive;     english
+kuanguka;       fall
+kufanya;        do, make
+kufika;         arrive
+kufuata;        follow
+kufunga;        close
+kufungura;      open
+kujua;          know
+kukaa;          sit, stay
+kukamata;       seize, grab
+kuleta;         bring
+kungoja;        wait
+kununua;        buy
+kupenda;        love
+kupiga;         hit
+kupika;         cook
+kusafisha;      clean
+kusema;         speak, say
+kusimama;       stand
+kutafuta;       search
+kutaka;         want
+kuuza;          sell
+kuweka;         put
+kuweza;         to be able to
+
+ARABIC VERBS
+infinitive;     english
+kubaki;         remain, left over
+kufaulu;        succeed
+kufikiri;       think, consider
+kufurahi;       rejoice, be happy
+kuharibu;       destroy, spoil
+kujaribu;       try
+kujibu;         answer, reply
+kuketi;         sit
+kurudi;         return
+kusafiri;       travel
+kusamehe;       forgive, sacrifice
+
+IRREGULAR VERBS
+infinitive;     english
+kufa;           die
+kuja;           come
+kula;           eat
+kunywa;         drink
+kuwa;           be, become
+kwenda;         go
+kwisha;         finish
