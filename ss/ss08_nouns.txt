@@ -1,0 +1,37 @@
+ss08_nouns.txt
+
+NOUNS M/MI REGULAR
+singular;       plural;         english
+mbuyu;          mibuyu;         Baobab tree
+mchezo;         michezo;        game, toy
+mfereji;        mifereji;       ditch
+mfuko;          mifuko;         bag, pocket
+mguu;           miguu;          leg, foot
+mji;            miji;           town, city
+mkate;          mikate;         loaf, bread
+mkono;          mikono;         arm, hand
+mlango;         milango;        door, opening, gate
+mlima;          milima;         mountain
+mmea;           mimea;          plant, crop
+mshahara;       mishahara;      salary, wages
+msumari;        misumari;       nail
+mti;            miti;           tree, post, trunk
+mtihani;        mitihani;       exam, test
+mto;            mito;           pillow, river
+mzigo;          mizigo;         load, luggage, burden
+
+NOUNS M/MI VOWELS O-IO
+singular;       plural;         english
+moshi;          mioshi;         smoke
+moto;           mioto;          fire, heat
+moyo;           mioyo;          heart
+
+NOUNS M/MI VOWELS W-I+
+singular;       plural;         english
+mwaka;          miaka;          year
+mwembe;         miembe;         mango tree
+mwendo;         miendo;         speed, journey
+mwezi;          miezi;          month, moon
+mwiba;          miiba;          thorn tree, thorn
+mwili;          miili;          body (living)
+mwisho;         miisho;         end, conclusion

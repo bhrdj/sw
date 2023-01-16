@@ -1,3 +1,4 @@
+ss05_nouns.txt
 
 NOUNS M/WA REGULAR
 singular;       plural;         english

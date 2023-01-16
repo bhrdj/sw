@@ -1,0 +1,25 @@
+ss06_nouns.txt
+
+VERBS
+infinitive;     english
+kuamka;         wake up
+kuanza;         start, begin
+kuchukua;       carry, take
+kufagia;        sweep
+kufuta;         wipe
+kuhitaji;       need, require
+kuingia;        enter, go in
+kujifunza;      learn
+kukauka;        dry, get dry
+kulala;         sleep, lie down
+kulima;         cultivate, plough
+kulipa;         pay
+kunusa;         smell something, sniff
+kuona;          see, feel, think
+kupanda;        climb, sow
+kupata;         get, obtain
+kusahau;        forget
+kusoma;         read, study
+kutumia;        use
+kutunza;        tend, take care of
+kuwinda;        hunt
