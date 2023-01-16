@@ -1,0 +1,28 @@
+ss03_adjectives.txt
+
+CONSONANT STEM ADJECTIVES
+-baya;          bad
+-bovu;          rotten
+-chache;        few
+-chafu;         dirty
+-dogo;          small
+-fupi;          short, low
+-geni;          strange, new
+-gumu;          hard, difficult
+-kali;          fierce, sharp, steep, strict
+-kavu;          dry
+-kubwa;         big, large
+-kuu;           great, main, important
+-kuukuu;        old (items)
+-nene;          fat, thick
+-ngapi?;        how many?
+-pana;          wide, broad, flat
+-pya;           new
+-refu;          long, deep, high, tall
+-tamu;          sweet
+-tupu;          empty, pure
+-vivu;          lazy, idle
+-zima;          whole
+-zito;          heavy
+-zuri;          good, nice, beautiful
+-zee;           old (people)

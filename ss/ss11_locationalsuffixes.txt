@@ -1,0 +1,10 @@
+ss11_locationalsuffixes.txt
+
+class                   M-WA            M-MI
+definite (sing)         yupo            
+        (plur)
+indefinite (sing)
+indefinite (plur)
+inside (sing)
+inside (plur)
+
