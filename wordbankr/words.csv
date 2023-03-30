@@ -1,0 +1,706 @@
+"","item_id","language","form","form_type","item_kind","category","item_definition","english_gloss","uni_lemma","lexical_category","complexity_category"
+"1","item_1","Kiswahili","WS","WS","word","sounds","Baa baa","Sheep","baa baa","other",NA
+"2","item_2","Kiswahili","WS","WS","word","sounds","chri chri chri","bird","NA","other",NA
+"3","item_3","Kiswahili","WS","WS","word","sounds","Heoo heoo","Donkey","hee haw","other",NA
+"4","item_4","Kiswahili","WS","WS","word","sounds","Hua","Dove","coo","other",NA
+"5","item_5","Kiswahili","WS","WS","word","sounds","Huo huo","Dog","woof woof","other",NA
+"6","item_6","Kiswahili","WS","WS","word","sounds","Khe khe khe","Duck","quack quack","other",NA
+"7","item_7","Kiswahili","WS","WS","word","sounds","Kima","monkey","monkey","other",NA
+"8","item_8","Kiswahili","WS","WS","word","sounds","Kru kru kru","Chicken calling chicks","NA","other",NA
+"9","item_9","Kiswahili","WS","WS","word","sounds","Kukuriukuu","Cockerel","cockadoodledoo","other",NA
+"10","item_10","Kiswahili","WS","WS","word","sounds","Kunguru","Crow","crow","other",NA
+"11","item_11","Kiswahili","WS","WS","word","sounds","miau miau","Cat","meow","other",NA
+"12","item_12","Kiswahili","WS","WS","word","sounds","mmee mmee","Goat","baa baa","other",NA
+"13","item_13","Kiswahili","WS","WS","word","sounds","mooh mooh","Cow","moo","other",NA
+"14","item_14","Kiswahili","WS","WS","word","sounds","Pikipiki","Motorbike","NA","other",NA
+"15","item_15","Kiswahili","WS","WS","word","sounds","Simu","Phone","NA","other",NA
+"16","item_16","Kiswahili","WS","WS","word","sounds","Tamu tamu","Sweetness","yum yum","other",NA
+"17","item_17","Kiswahili","WS","WS","word","sounds","Umia","Ouch","ouch","other",NA
+"18","item_18","Kiswahili","WS","WS","word","sounds","Vruum vruum","Car","vroom","other",NA
+"19","item_19","Kiswahili","WS","WS","word","animals","Bata","Duck","duck","nouns",NA
+"20","item_20","Kiswahili","WS","WS","word","animals","Bata mzinga","Turkey","goose","nouns",NA
+"21","item_21","Kiswahili","WS","WS","word","animals","Buibui","Spider","spider","nouns",NA
+"22","item_22","Kiswahili","WS","WS","word","animals","Chungu/Mchwa","Ant","ant","nouns",NA
+"23","item_23","Kiswahili","WS","WS","word","animals","Chura","Frog","frog","nouns",NA
+"24","item_24","Kiswahili","WS","WS","word","animals","Farasi","Horse","horse","nouns",NA
+"25","item_25","Kiswahili","WS","WS","word","animals","Jimbi/jogoo","Cockerel","chicken (animal)","nouns",NA
+"26","item_26","Kiswahili","WS","WS","word","animals","Jongoo","Millipede","chicken (animal)","nouns",NA
+"27","item_27","Kiswahili","WS","WS","word","animals","Kipepeo","Butterfly","butterfly","nouns",NA
+"28","item_28","Kiswahili","WS","WS","word","animals","Kobe","Tortoise","turtle","nouns",NA
+"29","item_29","Kiswahili","WS","WS","word","animals","Kombamwiko","cockroach","cockroach","nouns",NA
+"30","item_30","Kiswahili","WS","WS","word","animals","Kondoo","Sheep","sheep","nouns",NA
+"31","item_31","Kiswahili","WS","WS","word","animals","Koo","Hen","hen","nouns",NA
+"32","item_32","Kiswahili","WS","WS","word","animals","Kuku","Chicken","chicken (animal)","nouns",NA
+"33","item_33","Kiswahili","WS","WS","word","animals","Kunguni","Bed bug","NA","nouns",NA
+"34","item_34","Kiswahili","WS","WS","word","animals","Kunguru/Kurabu","Crow","crow","nouns",NA
+"35","item_35","Kiswahili","WS","WS","word","animals","Mbu","Mosquito","mosquito","nouns",NA
+"36","item_36","Kiswahili","WS","WS","word","animals","Mbuzi/Mee","Goat","goat","nouns",NA
+"37","item_37","Kiswahili","WS","WS","word","animals","Mbwa/Jibwa","Dog","dog","nouns",NA
+"38","item_38","Kiswahili","WS","WS","word","animals","Mdudu","Insect","bug","nouns",NA
+"39","item_39","Kiswahili","WS","WS","word","animals","Mnyama","Animal","animal","nouns",NA
+"40","item_40","Kiswahili","WS","WS","word","animals","Mujusi kafiri","Lizard","lizard","nouns",NA
+"41","item_41","Kiswahili","WS","WS","word","animals","Mwanambwa","Puppy","puppy","nouns",NA
+"42","item_42","Kiswahili","WS","WS","word","animals","Ng'ombe/Boo","Cow","cow","nouns",NA
+"43","item_43","Kiswahili","WS","WS","word","animals","Nyani/kima/tumbili","Monkey","monkey","nouns",NA
+"44","item_44","Kiswahili","WS","WS","word","animals","Nyoka","snake","snake","nouns",NA
+"45","item_45","Kiswahili","WS","WS","word","animals","Nyuki","Bee","bee","nouns",NA
+"46","item_46","Kiswahili","WS","WS","word","animals","Nyuni/ndege/Njiwa","Bird","bird","nouns",NA
+"47","item_47","Kiswahili","WS","WS","word","animals","Nzi","House Fly","fly (animal)","nouns",NA
+"48","item_48","Kiswahili","WS","WS","word","animals","Paka/Nyau","Cat","cat","nouns",NA
+"49","item_49","Kiswahili","WS","WS","word","animals","Panya","Rat/Mouse","mouse","nouns",NA
+"50","item_50","Kiswahili","WS","WS","word","animals","Popo","Bat","bat (animal)","nouns",NA
+"51","item_51","Kiswahili","WS","WS","word","animals","Punda","Donkey","donkey","nouns",NA
+"52","item_52","Kiswahili","WS","WS","word","animals","Punda milia/Zebra","Zebra","zebra","nouns",NA
+"53","item_53","Kiswahili","WS","WS","word","animals","Samaki","Fish","fish (animal)","nouns",NA
+"54","item_54","Kiswahili","WS","WS","word","animals","Simba","Lion","lion","nouns",NA
+"55","item_55","Kiswahili","WS","WS","word","animals","Sungura","Hare","bunny","nouns",NA
+"56","item_56","Kiswahili","WS","WS","word","animals","Tembo/ndovu","Elephant","elephant","nouns",NA
+"57","item_57","Kiswahili","WS","WS","word","vehicles","Baiskeli","Bicycle","bicycle","nouns",NA
+"58","item_58","Kiswahili","WS","WS","word","vehicles","Basi/Buscar","Bus","bus","nouns",NA
+"59","item_59","Kiswahili","WS","WS","word","vehicles","Dau/mashua/mtumbwi/boat","Small boat","boat","nouns",NA
+"60","item_60","Kiswahili","WS","WS","word","vehicles","Dukwama/Mkokoteni","Handcart","cart","nouns",NA
+"61","item_61","Kiswahili","WS","WS","word","vehicles","Gari la moshi","Train","train","nouns",NA
+"62","item_62","Kiswahili","WS","WS","word","vehicles","Gari/Motokaa","Car","car","nouns",NA
+"63","item_63","Kiswahili","WS","WS","word","vehicles","Helikopta","Helicopter","helicopter","nouns",NA
+"64","item_64","Kiswahili","WS","WS","word","vehicles","Lori","Lorry","truck","nouns",NA
+"65","item_65","Kiswahili","WS","WS","word","vehicles","Matatu/Saa robo","Minibus","time","nouns",NA
+"66","item_66","Kiswahili","WS","WS","word","vehicles","Merikebu","Ship","ship","nouns",NA
+"67","item_67","Kiswahili","WS","WS","word","vehicles","Ndege/eropleni","Aeroplane","airplane","nouns",NA
+"68","item_68","Kiswahili","WS","WS","word","vehicles","Pikipiki","Motorbike","motorcycle","nouns",NA
+"69","item_69","Kiswahili","WS","WS","word","vehicles","Tingatinga","Tractor","tractor","nouns",NA
+"70","item_70","Kiswahili","WS","WS","word","toys","Chaki/Makaa","Chalk","chalk","nouns",NA
+"71","item_71","Kiswahili","WS","WS","word","toys","Gun","Gun","gun","nouns",NA
+"72","item_72","Kiswahili","WS","WS","word","toys","Hadithi/ngano","Story","story","nouns",NA
+"73","item_73","Kiswahili","WS","WS","word","toys","Kalamu","Pen","pen","nouns",NA
+"74","item_74","Kiswahili","WS","WS","word","toys","Kamba","Rope","rope","nouns",NA
+"75","item_75","Kiswahili","WS","WS","word","toys","Kibofu","Balloon","balloon","nouns",NA
+"76","item_76","Kiswahili","WS","WS","word","toys","Kifuu/Kifufu","Coconut shell","and","nouns",NA
+"77","item_77","Kiswahili","WS","WS","word","toys","Doli/Kinyago","Doll","doll","nouns",NA
+"78","item_78","Kiswahili","WS","WS","word","toys","Kitabu","Book","book","nouns",NA
+"79","item_79","Kiswahili","WS","WS","word","toys","Mchezo","Game/Play","game","nouns",NA
+"80","item_80","Kiswahili","WS","WS","word","toys","Mpira/Boli","Ball","ball","nouns",NA
+"81","item_81","Kiswahili","WS","WS","word","toys","Ngamu/Gundi/Gamu","Glue","glue (object)","nouns",NA
+"82","item_82","Kiswahili","WS","WS","word","toys","Penseli","Pencil","pencil","nouns",NA
+"83","item_83","Kiswahili","WS","WS","word","toys","Penseli rangi/Colour/Rangi","colouring pencil/crayons","NA","nouns",NA
+"84","item_84","Kiswahili","WS","WS","word","toys","Povu","Foam/bubbles","bubbles","nouns",NA
+"85","item_85","Kiswahili","WS","WS","word","toys","Udongo","Mud/Clay","sand","nouns",NA
+"86","item_86","Kiswahili","WS","WS","word","toys","Vibao/Bao","Board","board game","nouns",NA
+"87","item_87","Kiswahili","WS","WS","word","toys","Zawadi","Present","present","nouns",NA
+"88","item_88","Kiswahili","WS","WS","word","food_drink","Apple","Apple","apple","nouns",NA
+"89","item_89","Kiswahili","WS","WS","word","food_drink","asali/uki","Honey","bee","nouns",NA
+"90","item_90","Kiswahili","WS","WS","word","food_drink","Avocado","Avocado","avocado","nouns",NA
+"91","item_91","Kiswahili","WS","WS","word","food_drink","Bajia","Fried Potatoes","french fries","nouns",NA
+"92","item_92","Kiswahili","WS","WS","word","food_drink","Barafu","Ice","ice","nouns",NA
+"93","item_93","Kiswahili","WS","WS","word","food_drink","BigG/Ballgum","Bubblegum","gum","nouns",NA
+"94","item_94","Kiswahili","WS","WS","word","food_drink","Biriani","Rice made in such away that it has atleast two different colours","rice","nouns",NA
+"95","item_95","Kiswahili","WS","WS","word","food_drink","Biskuti","Biscuit","cookie","nouns",NA
+"96","item_96","Kiswahili","WS","WS","word","food_drink","Chai","Tea","tea","nouns",NA
+"97","item_97","Kiswahili","WS","WS","word","food_drink","Chakula","Food","food","nouns",NA
+"98","item_98","Kiswahili","WS","WS","word","food_drink","Chapati","Chapati","tortilla","nouns",NA
+"99","item_99","Kiswahili","WS","WS","word","food_drink","Chocolate","Chocolate","chocolate","nouns",NA
+"100","item_100","Kiswahili","WS","WS","word","food_drink","Chumvi","Salt","salt","nouns",NA
+"101","item_101","Kiswahili","WS","WS","word","food_drink","Chungwa","Orange","orange (food)","nouns",NA
+"102","item_102","Kiswahili","WS","WS","word","food_drink","Embe","Mango","mango","nouns",NA
+"103","item_103","Kiswahili","WS","WS","word","food_drink","Ice cream","Ice cream","ice cream","nouns",NA
+"104","item_104","Kiswahili","WS","WS","word","food_drink","Jam","Jam","jam","nouns",NA
+"105","item_105","Kiswahili","WS","WS","word","food_drink","Kahawa","Coffee","coffee","nouns",NA
+"106","item_106","Kiswahili","WS","WS","word","food_drink","Kaimati","Bun1","bun","nouns",NA
+"107","item_107","Kiswahili","WS","WS","word","food_drink","Karoti","Carrot","carrot","nouns",NA
+"108","item_108","Kiswahili","WS","WS","word","food_drink","Keki","Cake","cake","nouns",NA
+"109","item_109","Kiswahili","WS","WS","word","food_drink","Kiazi","Potato","potato","nouns",NA
+"110","item_110","Kiswahili","WS","WS","word","food_drink","kiboma","Kingfish","fish (food)","nouns",NA
+"111","item_111","Kiswahili","WS","WS","word","food_drink","Kinywaji","DrinkN","drink (beverage)","nouns",NA
+"112","item_112","Kiswahili","WS","WS","word","food_drink","kitumbua","Bun2","bun","nouns",NA
+"113","item_113","Kiswahili","WS","WS","word","food_drink","Koo","Sweet","sweets","nouns",NA
+"114","item_114","Kiswahili","WS","WS","word","food_drink","Kuku","ChickenF","chicken (food)","nouns",NA
+"115","item_115","Kiswahili","WS","WS","word","food_drink","kunde","Cow peas","peas","nouns",NA
+"116","item_116","Kiswahili","WS","WS","word","food_drink","Kungu","Fruit","crow","nouns",NA
+"117","item_117","Kiswahili","WS","WS","word","food_drink","Madafu","Unripe coconuts","coconut","nouns",NA
+"118","item_118","Kiswahili","WS","WS","word","food_drink","mahamri/maandazi","Dumpling","bun","nouns",NA
+"119","item_119","Kiswahili","WS","WS","word","food_drink","Maharagwe","Beans","beans","nouns",NA
+"120","item_120","Kiswahili","WS","WS","word","food_drink","Mahindi","Maize","corn","nouns",NA
+"121","item_121","Kiswahili","WS","WS","word","food_drink","Maji","WaterF","water (beverage)","nouns",NA
+"122","item_122","Kiswahili","WS","WS","word","food_drink","Maji ya machungwa/juisi","orange juice","orange juice","nouns",NA
+"123","item_123","Kiswahili","WS","WS","word","food_drink","Matomoko","Fruit","fruit","nouns",NA
+"124","item_124","Kiswahili","WS","WS","word","food_drink","Maziwa","Milk","milk","nouns",NA
+"125","item_125","Kiswahili","WS","WS","word","food_drink","Maziwa mala/lala/kuganda/Yoghurt","Sour milk","NA","nouns",NA
+"126","item_126","Kiswahili","WS","WS","word","food_drink","Mbaazi","Green peas","peas","nouns",NA
+"127","item_127","Kiswahili","WS","WS","word","food_drink","mchuzi","Soup/sauce","sauce","nouns",NA
+"128","item_128","Kiswahili","WS","WS","word","food_drink","Mkate","Bread","bread","nouns",NA
+"129","item_129","Kiswahili","WS","WS","word","food_drink","Muhogo","Cassava","cassava","nouns",NA
+"130","item_130","Kiswahili","WS","WS","word","food_drink","Nazi","Coconut","coconut","nouns",NA
+"131","item_131","Kiswahili","WS","WS","word","food_drink","Ndizi","Bananas","banana","nouns",NA
+"132","item_132","Kiswahili","WS","WS","word","food_drink","Njugu (karanga)","Groundnuts","peanut","nouns",NA
+"133","item_133","Kiswahili","WS","WS","word","food_drink","Nyama","Meat","meat","nouns",NA
+"134","item_134","Kiswahili","WS","WS","word","food_drink","nyanya/Tomato","Tomatoes","tomato","nouns",NA
+"135","item_135","Kiswahili","WS","WS","word","food_drink","Omena/Kumbu","NA","sardine","nouns",NA
+"136","item_136","Kiswahili","WS","WS","word","food_drink","Paipai","Paw paw","papaya","nouns",NA
+"137","item_137","Kiswahili","WS","WS","word","food_drink","Papa","Shark","shark","nouns",NA
+"138","item_138","Kiswahili","WS","WS","word","food_drink","Peremende","Sweets","sweets","nouns",NA
+"139","item_139","Kiswahili","WS","WS","word","food_drink","Pilau","Pilau","rice","nouns",NA
+"140","item_140","Kiswahili","WS","WS","word","food_drink","Pili pili","Pepper","pepper","nouns",NA
+"141","item_141","Kiswahili","WS","WS","word","food_drink","pojo","Green peas","peas","nouns",NA
+"142","item_142","Kiswahili","WS","WS","word","food_drink","Popcorn/bisi","Popcorns","popcorn","nouns",NA
+"143","item_143","Kiswahili","WS","WS","word","food_drink","Samaki","FishF","fish (food)","nouns",NA
+"144","item_144","Kiswahili","WS","WS","word","food_drink","Sambusa","Samosa","samosa","nouns",NA
+"145","item_145","Kiswahili","WS","WS","word","food_drink","Siagi/Blue Band","Butter","butter","nouns",NA
+"146","item_146","Kiswahili","WS","WS","word","food_drink","Siki","Ginger","ginger","nouns",NA
+"147","item_147","Kiswahili","WS","WS","word","food_drink","Sima","Thick porridge","porridge","nouns",NA
+"148","item_148","Kiswahili","WS","WS","word","food_drink","Soda","Soda","soda","nouns",NA
+"149","item_149","Kiswahili","WS","WS","word","food_drink","Spaghetti","Spaghetti","pasta","nouns",NA
+"150","item_150","Kiswahili","WS","WS","word","food_drink","Sukuma","Kale","push","nouns",NA
+"151","item_151","Kiswahili","WS","WS","word","food_drink","Supu","Soup","soup","nouns",NA
+"152","item_152","Kiswahili","WS","WS","word","food_drink","Tambi","Noodles","pasta","nouns",NA
+"153","item_153","Kiswahili","WS","WS","word","food_drink","Tamu","Something sweet","yum yum","nouns",NA
+"154","item_154","Kiswahili","WS","WS","word","food_drink","Tembo/pombe","Alcohol","elephant","nouns",NA
+"155","item_155","Kiswahili","WS","WS","word","food_drink","Tikiti/Watermelon","Watermelon","watermelon","nouns",NA
+"156","item_156","Kiswahili","WS","WS","word","food_drink","Tosti","Toasted Bread","toast","nouns",NA
+"157","item_157","Kiswahili","WS","WS","word","food_drink","uji","Porridge","porridge","nouns",NA
+"158","item_158","Kiswahili","WS","WS","word","food_drink","Unga","Maize Flour","NA","nouns",NA
+"159","item_159","Kiswahili","WS","WS","word","food_drink","Viazi","Potatoes","potato","nouns",NA
+"160","item_160","Kiswahili","WS","WS","word","food_drink","Viazi kaanga/chips","Chips","chips","nouns",NA
+"161","item_161","Kiswahili","WS","WS","word","food_drink","Viazi vya rojo/Viazi karai","potatoes in soup","NA","nouns",NA
+"162","item_162","Kiswahili","WS","WS","word","food_drink","Wali/Mchele","Rice","rice","nouns",NA
+"163","item_163","Kiswahili","WS","WS","word","food_drink","Yai","Egg","egg","nouns",NA
+"164","item_164","Kiswahili","WS","WS","word","clothing","Bangili","Bangles","bracelet","nouns",NA
+"165","item_165","Kiswahili","WS","WS","word","clothing","Bib","Bib","bib","nouns",NA
+"166","item_166","Kiswahili","WS","WS","word","clothing","buibui","Moslem overdress","shawl","nouns",NA
+"167","item_167","Kiswahili","WS","WS","word","clothing","Chupi/Panti","Underpants","underpants","nouns",NA
+"168","item_168","Kiswahili","WS","WS","word","clothing","jaketi","Jacket","jacket","nouns",NA
+"169","item_169","Kiswahili","WS","WS","word","clothing","Jeans","Jeans","jeans","nouns",NA
+"170","item_170","Kiswahili","WS","WS","word","clothing","Kamisi","Petticoat","NA","nouns",NA
+"171","item_171","Kiswahili","WS","WS","word","clothing","kanga","Cloth1","NA","nouns",NA
+"172","item_172","Kiswahili","WS","WS","word","clothing","Kaptula/Kinyasa/Kipande","Shorts","shorts","nouns",NA
+"173","item_173","Kiswahili","WS","WS","word","clothing","Kiatu","Shoe","shoe","nouns",NA
+"174","item_174","Kiswahili","WS","WS","word","clothing","Kifungo","Button","button","nouns",NA
+"175","item_175","Kiswahili","WS","WS","word","clothing","Kikoi","Cloth2","NA","nouns",NA
+"176","item_176","Kiswahili","WS","WS","word","clothing","Kipkapa/kepa/Cap","Hat/cap","hat","nouns",NA
+"177","item_177","Kiswahili","WS","WS","word","clothing","kirinda","Peticoat","NA","nouns",NA
+"178","item_178","Kiswahili","WS","WS","word","clothing","Kitambaa","Piece of cloth","bib","nouns",NA
+"179","item_179","Kiswahili","WS","WS","word","clothing","Kitambaa cha kichwa/Hijab","headscarf","scarf","nouns",NA
+"180","item_180","Kiswahili","WS","WS","word","clothing","Kofia","Hat","hat","nouns",NA
+"181","item_181","Kiswahili","WS","WS","word","clothing","Koti","Coat","coat","nouns",NA
+"182","item_182","Kiswahili","WS","WS","word","clothing","leso","Colured cloth worn by women and has wordings","dress (object)","nouns",NA
+"183","item_183","Kiswahili","WS","WS","word","clothing","Longi/Suruali","Trousers","pants","nouns",NA
+"184","item_184","Kiswahili","WS","WS","word","clothing","Mabuti/Njuti","Boots","boots","nouns",NA
+"185","item_185","Kiswahili","WS","WS","word","clothing","Mkufu/Ushanga/Tasbihi","Necklace/Beads","beads","nouns",NA
+"186","item_186","Kiswahili","WS","WS","word","clothing","Mshipi","Belt","cook","nouns",NA
+"187","item_187","Kiswahili","WS","WS","word","clothing","Nepi","Nappy","diaper","nouns",NA
+"188","item_188","Kiswahili","WS","WS","word","clothing","Nguo","Clothes","clothes","nouns",NA
+"189","item_189","Kiswahili","WS","WS","word","clothing","Rinda","Dress","dress (object)","nouns",NA
+"190","item_190","Kiswahili","WS","WS","word","clothing","Sapata/pata pata/ndara/Champali/Slipper","Sandals","sandal","nouns",NA
+"191","item_191","Kiswahili","WS","WS","word","clothing","Shati","Shirt","shirt","nouns",NA
+"192","item_192","Kiswahili","WS","WS","word","clothing","shuka/shiti","Sheet","sheet","nouns",NA
+"193","item_193","Kiswahili","WS","WS","word","clothing","Sketi","Skirt","skirt","nouns",NA
+"194","item_194","Kiswahili","WS","WS","word","clothing","Soksi","Socks","sock","nouns",NA
+"195","item_195","Kiswahili","WS","WS","word","clothing","suti/Beli","Suit","suit","nouns",NA
+"196","item_196","Kiswahili","WS","WS","word","clothing","Sweta","Sweater","sweater","nouns",NA
+"197","item_197","Kiswahili","WS","WS","word","clothing","Titi/Nono/Nyonyo","Nipple","breast","nouns",NA
+"198","item_198","Kiswahili","WS","WS","word","clothing","T-Shirt","T-shirt","t-shirt","nouns",NA
+"199","item_199","Kiswahili","WS","WS","word","clothing","Vipuli","Earrings","earring","nouns",NA
+"200","item_200","Kiswahili","WS","WS","word","clothing","Zip","Zipper","zipper","nouns",NA
+"201","item_201","Kiswahili","WS","WS","word","body_parts","Bega","Shoulder","shoulder","nouns",NA
+"202","item_202","Kiswahili","WS","WS","word","body_parts","Goti","Knee","knee","nouns",NA
+"203","item_203","Kiswahili","WS","WS","word","body_parts","Jicho","Eye","eye","nouns",NA
+"204","item_204","Kiswahili","WS","WS","word","body_parts","Jino","Teeth","tooth","nouns",NA
+"205","item_205","Kiswahili","WS","WS","word","body_parts","Kichwa/Head","Head","head","nouns",NA
+"206","item_206","Kiswahili","WS","WS","word","body_parts","Kidevu","Chin","chin","nouns",NA
+"207","item_207","Kiswahili","WS","WS","word","body_parts","kidole","Finger","toe","nouns",NA
+"208","item_208","Kiswahili","WS","WS","word","body_parts","Kiganja","Palm","palm","nouns",NA
+"209","item_209","Kiswahili","WS","WS","word","body_parts","Kitovu","Umbilical cord","belly button","nouns",NA
+"210","item_210","Kiswahili","WS","WS","word","body_parts","Kucha","Fingernail","nail (body part)","nouns",NA
+"211","item_211","Kiswahili","WS","WS","word","body_parts","Makalio/matako","Buttocks","butt","nouns",NA
+"212","item_212","Kiswahili","WS","WS","word","body_parts","Mgongo","Back","back (body part)","nouns",NA
+"213","item_213","Kiswahili","WS","WS","word","body_parts","Mguu","Leg","leg","nouns",NA
+"214","item_214","Kiswahili","WS","WS","word","body_parts","Midomo","Mouth","lip","nouns",NA
+"215","item_215","Kiswahili","WS","WS","word","body_parts","Mkono","Hand","hand","nouns",NA
+"216","item_216","Kiswahili","WS","WS","word","body_parts","Nyayo","Feet","foot","nouns",NA
+"217","item_217","Kiswahili","WS","WS","word","body_parts","Nywele","Hair","hair","nouns",NA
+"218","item_218","Kiswahili","WS","WS","word","body_parts","Pua","Nose","nose","nouns",NA
+"219","item_219","Kiswahili","WS","WS","word","body_parts","Sehemu za siri/Dudu/Mdudu/Tupu/Tumbaki","Private parts","penis","nouns",NA
+"220","item_220","Kiswahili","WS","WS","word","body_parts","Shavu","Cheeks","cheek","nouns",NA
+"221","item_221","Kiswahili","WS","WS","word","body_parts","Sikio","Ear","ear","nouns",NA
+"222","item_222","Kiswahili","WS","WS","word","body_parts","Tumbo","Stomach","tummy","nouns",NA
+"223","item_223","Kiswahili","WS","WS","word","body_parts","Ulimi","Tongue","tongue","nouns",NA
+"224","item_224","Kiswahili","WS","WS","word","body_parts","Uso","Face","face","nouns",NA
+"225","item_225","Kiswahili","WS","WS","word","household","Bakuli","Bowl","bowl","nouns",NA
+"226","item_226","Kiswahili","WS","WS","word","household","Beseni/Karai","Basin","dish","nouns",NA
+"227","item_227","Kiswahili","WS","WS","word","household","Bilauri/glasi","Glass","glass","nouns",NA
+"228","item_228","Kiswahili","WS","WS","word","household","Blanketi","Blanket","blanket","nouns",NA
+"229","item_229","Kiswahili","WS","WS","word","household","Brashi","Brush","brush (object)","nouns",NA
+"230","item_230","Kiswahili","WS","WS","word","household","Chupa","Bottle","bottle","nouns",NA
+"231","item_231","Kiswahili","WS","WS","word","household","Dawa","Medicine","medicine","nouns",NA
+"232","item_232","Kiswahili","WS","WS","word","household","Fimbo","StickH","stick","nouns",NA
+"233","item_233","Kiswahili","WS","WS","word","household","Godoro","Matress","bed","nouns",NA
+"234","item_234","Kiswahili","WS","WS","word","household","Jagi","Jug","bowl","nouns",NA
+"235","item_235","Kiswahili","WS","WS","word","household","Kamera","Camera","camera","nouns",NA
+"236","item_236","Kiswahili","WS","WS","word","household","Kapeti","Carpet","carpet","nouns",NA
+"237","item_237","Kiswahili","WS","WS","word","household","Karatasi","Paper","paper","nouns",NA
+"238","item_238","Kiswahili","WS","WS","word","household","Karatasi ya chooni/ya kujipangusa","Toliet paper","toilet paper","nouns",NA
+"239","item_239","Kiswahili","WS","WS","word","household","Kichana","Comb","comb (object)","nouns",NA
+"240","item_240","Kiswahili","WS","WS","word","household","Kifunuo","Opener","can opener","nouns",NA
+"241","item_241","Kiswahili","WS","WS","word","household","Kifuvu/Kifuu","copra (coconut cover)","NA","nouns",NA
+"242","item_242","Kiswahili","WS","WS","word","household","Kijiko","Spoon","spoon","nouns",NA
+"243","item_243","Kiswahili","WS","WS","word","household","Kikapu","Basket","basket","nouns",NA
+"244","item_244","Kiswahili","WS","WS","word","household","kikombe","Cup","cup","nouns",NA
+"245","item_245","Kiswahili","WS","WS","word","household","Kisu","Knife","knife","nouns",NA
+"246","item_246","Kiswahili","WS","WS","word","household","Kopo","Mug","mug","nouns",NA
+"247","item_247","Kiswahili","WS","WS","word","household","Makasi","Scissor","scissors","nouns",NA
+"248","item_248","Kiswahili","WS","WS","word","household","Makuti","coconut leaves","roof","nouns",NA
+"249","item_249","Kiswahili","WS","WS","word","household","Mbuzi","A tool used to grate coconut","NA","nouns",NA
+"250","item_250","Kiswahili","WS","WS","word","household","Miwani","Glasses","glasses","nouns",NA
+"251","item_251","Kiswahili","WS","WS","word","household","Mkebe","Tin","NA","nouns",NA
+"252","item_252","Kiswahili","WS","WS","word","household","Mkeka","Mat","mat","nouns",NA
+"253","item_253","Kiswahili","WS","WS","word","household","Mkoba/mfuko/begi","Bag","bag","nouns",NA
+"254","item_254","Kiswahili","WS","WS","word","household","Mswaki","Toothbrush","toothbrush","nouns",NA
+"255","item_255","Kiswahili","WS","WS","word","household","Mto","Pillow","pillow","nouns",NA
+"256","item_256","Kiswahili","WS","WS","word","household","Mwiko","Cooking stick","NA","nouns",NA
+"257","item_257","Kiswahili","WS","WS","word","household","Ndoo","Bucket1","bucket","nouns",NA
+"258","item_258","Kiswahili","WS","WS","word","household","Nyundo","Hammer","hammer","nouns",NA
+"259","item_259","Kiswahili","WS","WS","word","household","Pesa/ngenje","Money","money","nouns",NA
+"260","item_260","Kiswahili","WS","WS","word","household","Picha","Picture","picture","nouns",NA
+"261","item_261","Kiswahili","WS","WS","word","household","Posta/barua","letter/ Post office","letter","nouns",NA
+"262","item_262","Kiswahili","WS","WS","word","household","Redio","Radio","radio","nouns",NA
+"263","item_263","Kiswahili","WS","WS","word","household","Remote","Remote control","remote control","nouns",NA
+"264","item_264","Kiswahili","WS","WS","word","household","Saa","Watch","clock","nouns",NA
+"265","item_265","Kiswahili","WS","WS","word","household","Sabuni","Soap","soap","nouns",NA
+"266","item_266","Kiswahili","WS","WS","word","household","Sahani","Plate","plate","nouns",NA
+"267","item_267","Kiswahili","WS","WS","word","household","Sanduku","Box","box","nouns",NA
+"268","item_268","Kiswahili","WS","WS","word","household","Shilingi","Shilling","penny","nouns",NA
+"269","item_269","Kiswahili","WS","WS","word","household","Simu","Phone","telephone","nouns",NA
+"270","item_270","Kiswahili","WS","WS","word","household","Sinia","Metal tray","dish","nouns",NA
+"271","item_271","Kiswahili","WS","WS","word","household","Taa ya koroboi","Lamp","light (object)","nouns",NA
+"272","item_272","Kiswahili","WS","WS","word","household","Taa ya mkopo/kibatari","Lamp","light (object)","nouns",NA
+"273","item_273","Kiswahili","WS","WS","word","household","Taa/Stima/Kandili","Light","lamp","nouns",NA
+"274","item_274","Kiswahili","WS","WS","word","household","Taka/Chafu","Dirt/Waste","trash","nouns",NA
+"275","item_275","Kiswahili","WS","WS","word","household","Tauli/Towel","Towel","towel","nouns",NA
+"276","item_276","Kiswahili","WS","WS","word","household","Ufagio","Broom","broom","nouns",NA
+"277","item_277","Kiswahili","WS","WS","word","household","Ufunguo","Key","key","nouns",NA
+"278","item_278","Kiswahili","WS","WS","word","household","Ukuta/Kiambaza","Wall","wall","nouns",NA
+"279","item_279","Kiswahili","WS","WS","word","household","Uma/Fork","Fork","fork","nouns",NA
+"280","item_280","Kiswahili","WS","WS","word","furniture_rooms","Bafu","Bathroom","bathroom","nouns",NA
+"281","item_281","Kiswahili","WS","WS","word","furniture_rooms","Chumba/Bedroom","Room","bedroom","nouns",NA
+"282","item_282","Kiswahili","WS","WS","word","furniture_rooms","Dirisha","Window","window","nouns",NA
+"283","item_283","Kiswahili","WS","WS","word","furniture_rooms","Friji/barafu","Fridge","refrigerator","nouns",NA
+"284","item_284","Kiswahili","WS","WS","word","furniture_rooms","Gogo/Kumbi","Log","NA","nouns",NA
+"285","item_285","Kiswahili","WS","WS","word","furniture_rooms","Jikoni","Kitchen","kitchen","nouns",NA
+"286","item_286","Kiswahili","WS","WS","word","furniture_rooms","Kabati","Cupboard","closet","nouns",NA
+"287","item_287","Kiswahili","WS","WS","word","furniture_rooms","Kitanda","Bed","bed","nouns",NA
+"288","item_288","Kiswahili","WS","WS","word","furniture_rooms","Kiti","Chair","chair","nouns",NA
+"289","item_289","Kiswahili","WS","WS","word","furniture_rooms","Kochi","Couch","couch","nouns",NA
+"290","item_290","Kiswahili","WS","WS","word","furniture_rooms","Meko/Stove/Jiko","Cooker","kitchen","nouns",NA
+"291","item_291","Kiswahili","WS","WS","word","furniture_rooms","Meza","Table","table","nouns",NA
+"292","item_292","Kiswahili","WS","WS","word","furniture_rooms","Mlango","Door","door","nouns",NA
+"293","item_293","Kiswahili","WS","WS","word","furniture_rooms","Msalani/Chooni","Toilet","toilet","nouns",NA
+"294","item_294","Kiswahili","WS","WS","word","furniture_rooms","Poti","Potty","potty","nouns",NA
+"295","item_295","Kiswahili","WS","WS","word","furniture_rooms","Sakafu/Simiti","Floor","floor","nouns",NA
+"296","item_296","Kiswahili","WS","WS","word","furniture_rooms","Sofa/Kochi","Sofa set","couch","nouns",NA
+"297","item_297","Kiswahili","WS","WS","word","furniture_rooms","stuli","Stool","stool","nouns",NA
+"298","item_298","Kiswahili","WS","WS","word","furniture_rooms","Televisheni/runinga/TV","Television","tv","nouns",NA
+"299","item_299","Kiswahili","WS","WS","word","furniture_rooms","Uani","Structure with walls but no roof","bib","nouns",NA
+"300","item_300","Kiswahili","WS","WS","word","furniture_rooms","Veranda/baraza","Veranda","balcony","nouns",NA
+"301","item_301","Kiswahili","WS","WS","word","outside","Barabara","Road","road","nouns",NA
+"302","item_302","Kiswahili","WS","WS","word","outside","Jembe","Hoe","spade","nouns",NA
+"303","item_303","Kiswahili","WS","WS","word","outside","Jiwe","Stone","stone","nouns",NA
+"304","item_304","Kiswahili","WS","WS","word","outside","Jua","Sun","sun","nouns",NA
+"305","item_305","Kiswahili","WS","WS","word","outside","Kibembea","Swing","swing (object)","nouns",NA
+"306","item_306","Kiswahili","WS","WS","word","outside","Kijiti/Kigongo","StickO","stick","nouns",NA
+"307","item_307","Kiswahili","WS","WS","word","outside","Maji","WaterO","water (not beverage)","nouns",NA
+"308","item_308","Kiswahili","WS","WS","word","outside","Maua","Flower","flower","nouns",NA
+"309","item_309","Kiswahili","WS","WS","word","outside","Mawingu","Cloud","cloud","nouns",NA
+"310","item_310","Kiswahili","WS","WS","word","outside","Mbingu","Sky","cloud","nouns",NA
+"311","item_311","Kiswahili","WS","WS","word","outside","Mchanga","Sand","sand","nouns",NA
+"312","item_312","Kiswahili","WS","WS","word","outside","mfereji/paipu","Pipe","pipe","nouns",NA
+"313","item_313","Kiswahili","WS","WS","word","outside","Mpira wa maji","Hose pipe","hose","nouns",NA
+"314","item_314","Kiswahili","WS","WS","word","outside","Mti/Mwembe","Tree","tree","nouns",NA
+"315","item_315","Kiswahili","WS","WS","word","outside","Mvua","Rain","rain","nouns",NA
+"316","item_316","Kiswahili","WS","WS","word","outside","Mwezi","Moon","moon","nouns",NA
+"317","item_317","Kiswahili","WS","WS","word","outside","Mwiko","Spade","shovel","nouns",NA
+"318","item_318","Kiswahili","WS","WS","word","outside","Ndoo","Bucket2","bucket","nouns",NA
+"319","item_319","Kiswahili","WS","WS","word","outside","Ngazi","Ladder","stairs","nouns",NA
+"320","item_320","Kiswahili","WS","WS","word","outside","Njia","Way","sidewalk","nouns",NA
+"321","item_321","Kiswahili","WS","WS","word","outside","Nyasi","Grass","grass","nouns",NA
+"322","item_322","Kiswahili","WS","WS","word","outside","Nyota","Star","star","nouns",NA
+"323","item_323","Kiswahili","WS","WS","word","outside","Panga","Slasher","machete","nouns",NA
+"324","item_324","Kiswahili","WS","WS","word","outside","Shimo","Hole","hole","nouns",NA
+"325","item_325","Kiswahili","WS","WS","word","outside","Upepo","Wind","wind","nouns",NA
+"326","item_326","Kiswahili","WS","WS","word","outside","Vichuma","Small pieces of metal","NA","nouns",NA
+"327","item_327","Kiswahili","WS","WS","word","places","Baharini/Pwani/Beach","Beach","beach","other",NA
+"328","item_328","Kiswahili","WS","WS","word","places","Barazani","Verandah","balcony","other",NA
+"329","item_329","Kiswahili","WS","WS","word","places","Dukani","shop","store","other",NA
+"330","item_330","Kiswahili","WS","WS","word","places","Filamu/Sinema/Video","Cinema","movie","other",NA
+"331","item_331","Kiswahili","WS","WS","word","places","Kanisani/Msikitini","Mosque/Church","church","other",NA
+"332","item_332","Kiswahili","WS","WS","word","places","Kazini","Workplace","work (place)","other",NA
+"333","item_333","Kiswahili","WS","WS","word","places","Kituo cha mafuta/Petroli/Jina la kituo","Petrol station","gas station","other",NA
+"334","item_334","Kiswahili","WS","WS","word","places","Madrasa/chuoni","Islamic school for children","NA","other",NA
+"335","item_335","Kiswahili","WS","WS","word","places","Mwituni","Bush","town","other",NA
+"336","item_336","Kiswahili","WS","WS","word","places","Nyumba","House","house","other",NA
+"337","item_337","Kiswahili","WS","WS","word","places","Nyumbani","Home","home","other",NA
+"338","item_338","Kiswahili","WS","WS","word","places","Shambani","Farm","farm","other",NA
+"339","item_339","Kiswahili","WS","WS","word","places","Sherehe/Hafla/Birthday/Harusi","Party","party","other",NA
+"340","item_340","Kiswahili","WS","WS","word","places","Shuleni/Skuli","School","school","other",NA
+"341","item_341","Kiswahili","WS","WS","word","places","Sipitali","Hospital","hospital","other",NA
+"342","item_342","Kiswahili","WS","WS","word","places","Sokoni","Market","market","other",NA
+"343","item_343","Kiswahili","WS","WS","word","places","Uwanjani","Compound","ground","other",NA
+"344","item_344","Kiswahili","WS","WS","word","people","Baba mdogo/Ami","Younger paternal uncle","uncle","other",NA
+"345","item_345","Kiswahili","WS","WS","word","people","Baba mkubwa","Older paternal uncle","uncle","other",NA
+"346","item_346","Kiswahili","WS","WS","word","people","Baba/Daddy","Father","daddy","other",NA
+"347","item_347","Kiswahili","WS","WS","word","people","Babu","Grandfather","grandpa","other",NA
+"348","item_348","Kiswahili","WS","WS","word","people","Bibi/Mke","Wife","grandma","other",NA
+"349","item_349","Kiswahili","WS","WS","word","people","Dada","Sister","sister","other",NA
+"350","item_350","Kiswahili","WS","WS","word","people","Daktari/Mganga","Doctor","doctor","other",NA
+"351","item_351","Kiswahili","WS","WS","word","people","Fundi","Expert","NA","other",NA
+"352","item_352","Kiswahili","WS","WS","word","people","Jina la mbwa/paka","Dog's / Cat's name","pet's name","other",NA
+"353","item_353","Kiswahili","WS","WS","word","people","Jina la mtoto","Child's name","child's own name","other",NA
+"354","item_354","Kiswahili","WS","WS","word","people","Jina la mzazi/mlezi","Caregiver's name","babysitter's name","other",NA
+"355","item_355","Kiswahili","WS","WS","word","people","Kitoto/ Mtoto mchanga","Infant","baby","other",NA
+"356","item_356","Kiswahili","WS","WS","word","people","Mama mdogo","Younger maternal aunt","aunt","other",NA
+"357","item_357","Kiswahili","WS","WS","word","people","Mama mkubwa","Older maternal aunt","aunt","other",NA
+"358","item_358","Kiswahili","WS","WS","word","people","Mama/Nina/Mummy","Mother","mommy","other",NA
+"359","item_359","Kiswahili","WS","WS","word","people","Mgema","Wine tapper","NA","other",NA
+"360","item_360","Kiswahili","WS","WS","word","people","Mjomba/Uncle","Maternal Uncle","uncle","other",NA
+"361","item_361","Kiswahili","WS","WS","word","people","Mkulima","Farmer","farmer","other",NA
+"362","item_362","Kiswahili","WS","WS","word","people","Mlisha","Herdsman","herder","other",NA
+"363","item_363","Kiswahili","WS","WS","word","people","Msichana","Girl","girl","other",NA
+"364","item_364","Kiswahili","WS","WS","word","people","Mtoto","Child","child","other",NA
+"365","item_365","Kiswahili","WS","WS","word","people","Mtu","Person","person","other",NA
+"366","item_366","Kiswahili","WS","WS","word","people","Muuguzi","Nurse","nurse","other",NA
+"367","item_367","Kiswahili","WS","WS","word","people","Mvulana","Boy","boy","other",NA
+"368","item_368","Kiswahili","WS","WS","word","people","Mwalimu","Teacher","teacher","other",NA
+"369","item_369","Kiswahili","WS","WS","word","people","Nyanya/Bibi","Grandmother","grandma","other",NA
+"370","item_370","Kiswahili","WS","WS","word","people","Polisi/Askari","Policeman","police","other",NA
+"371","item_371","Kiswahili","WS","WS","word","people","Rafiki","Friend","friend","other",NA
+"372","item_372","Kiswahili","WS","WS","word","people","Shangazi","Aunt","aunt","other",NA
+"373","item_373","Kiswahili","WS","WS","word","people","Yaya","Maid","maid","other",NA
+"374","item_374","Kiswahili","WS","WS","word","games_routines","Ahsante/Shukrani","Thank you","thank you","other",NA
+"375","item_375","Kiswahili","WS","WS","word","games_routines","Chai/Kiamsha kinywa","Breakfast","breakfast","other",NA
+"376","item_376","Kiswahili","WS","WS","word","games_routines","Chajio","Dinner/ supper","dinner","other",NA
+"377","item_377","Kiswahili","WS","WS","word","games_routines","Chamchana","Lunch","lunch","other",NA
+"378","item_378","Kiswahili","WS","WS","word","games_routines","Karibu","Welcome","welcome","other",NA
+"379","item_379","Kiswahili","WS","WS","word","games_routines","Kibe","Game of hide and seek","NA","other",NA
+"380","item_380","Kiswahili","WS","WS","word","games_routines","Kujisaidia/pembeni/Haja/Pupu/Kanye","Go to the toilet","go potty","other",NA
+"381","item_381","Kiswahili","WS","WS","word","games_routines","Kuoga","Bathe","shower","other",NA
+"382","item_382","Kiswahili","WS","WS","word","games_routines","Kupumzika/Nimechoka","Relaxing","NA","other",NA
+"383","item_383","Kiswahili","WS","WS","word","games_routines","Kwa kheri/Bye bye","Bye","bye","other",NA
+"384","item_384","Kiswahili","WS","WS","word","games_routines","La/Hapana","No","no","other",NA
+"385","item_385","Kiswahili","WS","WS","word","games_routines","Mambo /Hujambo","How are you?","how are you","other",NA
+"386","item_386","Kiswahili","WS","WS","word","games_routines","Naam/Ndio/Ehe","Yes","NA","other",NA
+"387","item_387","Kiswahili","WS","WS","word","games_routines","Piga simu","Make a phone call","call","other",NA
+"388","item_388","Kiswahili","WS","WS","word","games_routines","Pole","Sorry","sorry","other",NA
+"389","item_389","Kiswahili","WS","WS","word","games_routines","Sasa?","hi?","now","other",NA
+"390","item_390","Kiswahili","WS","WS","word","games_routines","Shikamoo","How are you? ( respectful greeting)","NA","other",NA
+"391","item_391","Kiswahili","WS","WS","word","games_routines","Sitaki","Don't want to","NA","other",NA
+"392","item_392","Kiswahili","WS","WS","word","games_routines","Ssssshh","Tell someone to keep quiet","shh","other",NA
+"393","item_393","Kiswahili","WS","WS","word","games_routines","tafadhali/naomba","Please","please","other",NA
+"394","item_394","Kiswahili","WS","WS","word","games_routines","Ukuti","Game involving going round","ring around the rosie","other",NA
+"395","item_395","Kiswahili","WS","WS","word","games_routines","Umeshindaje?","Good evening","good evening","other",NA
+"396","item_396","Kiswahili","WS","WS","word","games_routines","Unacho","You have it","NA","other",NA
+"397","item_397","Kiswahili","WS","WS","word","games_routines","Usiku mwema/Lala salama/Ulaze salama","NA","NA","other",NA
+"398","item_398","Kiswahili","WS","WS","word","action_words","Acha","Leave","stop","predicates",NA
+"399","item_399","Kiswahili","WS","WS","word","action_words","Amka/Zinduka","Wake up","wake","predicates",NA
+"400","item_400","Kiswahili","WS","WS","word","action_words","Andika","Write","write","predicates",NA
+"401","item_401","Kiswahili","WS","WS","word","action_words","Angalia/tunza/linda","take care of","watch (action)","predicates",NA
+"402","item_402","Kiswahili","WS","WS","word","action_words","Anguka","Fall","fall","predicates",NA
+"403","item_403","Kiswahili","WS","WS","word","action_words","Angusha","Drop","drop","predicates",NA
+"404","item_404","Kiswahili","WS","WS","word","action_words","Anika","Spread clothes","NA","predicates",NA
+"405","item_405","Kiswahili","WS","WS","word","action_words","Beba","Carry","carry","predicates",NA
+"406","item_406","Kiswahili","WS","WS","word","action_words","Bembea","Swing","swing (action)","predicates",NA
+"407","item_407","Kiswahili","WS","WS","word","action_words","Bisha/gonga","Knock","knock","predicates",NA
+"408","item_408","Kiswahili","WS","WS","word","action_words","Busu/Shumu","Kiss","kiss","predicates",NA
+"409","item_409","Kiswahili","WS","WS","word","action_words","Chagua","Choose","choose","predicates",NA
+"410","item_410","Kiswahili","WS","WS","word","action_words","Cheka/tabasamu","Laugh/Smile","smile","predicates",NA
+"411","item_411","Kiswahili","WS","WS","word","action_words","Cheza","NA","NA","predicates",NA
+"412","item_412","Kiswahili","WS","WS","word","action_words","Cheza","NA","NA","predicates",NA
+"413","item_413","Kiswahili","WS","WS","word","action_words","Chora","Draw","draw","predicates",NA
+"414","item_414","Kiswahili","WS","WS","word","action_words","Chukia","Hate","angry","predicates",NA
+"415","item_415","Kiswahili","WS","WS","word","action_words","Chukua","Take","take","predicates",NA
+"416","item_416","Kiswahili","WS","WS","word","action_words","Enda","Go","go","predicates",NA
+"417","item_417","Kiswahili","WS","WS","word","action_words","endesha","Drive","drive","predicates",NA
+"418","item_418","Kiswahili","WS","WS","word","action_words","Fagia","Sweep","sweep","predicates",NA
+"419","item_419","Kiswahili","WS","WS","word","action_words","Fanya","Do","do","predicates",NA
+"420","item_420","Kiswahili","WS","WS","word","action_words","Fanya kazi","Work","work (action)","predicates",NA
+"421","item_421","Kiswahili","WS","WS","word","action_words","Ficha","Hide","hide","predicates",NA
+"422","item_422","Kiswahili","WS","WS","word","action_words","Fikira","Think","think","predicates",NA
+"423","item_423","Kiswahili","WS","WS","word","action_words","Funga","Close","close","predicates",NA
+"424","item_424","Kiswahili","WS","WS","word","action_words","Fungua","Open","open (action)","predicates",NA
+"425","item_425","Kiswahili","WS","WS","word","action_words","Funika","Cover","cover (action)","predicates",NA
+"426","item_426","Kiswahili","WS","WS","word","action_words","Gawana/Gawanya","Share","share","predicates",NA
+"427","item_427","Kiswahili","WS","WS","word","action_words","Gonga","hit","hit","predicates",NA
+"428","item_428","Kiswahili","WS","WS","word","action_words","Gongana","Knock each other","knock","predicates",NA
+"429","item_429","Kiswahili","WS","WS","word","action_words","Gusa","Touch","touch","predicates",NA
+"430","item_430","Kiswahili","WS","WS","word","action_words","Iga","Pretend","hit","predicates",NA
+"431","item_431","Kiswahili","WS","WS","word","action_words","Imba","Sing","sing","predicates",NA
+"432","item_432","Kiswahili","WS","WS","word","action_words","Jaa","Fill","hungry","predicates",NA
+"433","item_433","Kiswahili","WS","WS","word","action_words","Jaribu","Try","try","predicates",NA
+"434","item_434","Kiswahili","WS","WS","word","action_words","Jenga","Build","make","predicates",NA
+"435","item_435","Kiswahili","WS","WS","word","action_words","Kaa","Stay, sit","sit","predicates",NA
+"436","item_436","Kiswahili","WS","WS","word","action_words","Kata","Cut","cut","predicates",NA
+"437","item_437","Kiswahili","WS","WS","word","action_words","Kaza","Tighten","tighten","predicates",NA
+"438","item_438","Kiswahili","WS","WS","word","action_words","Keti","Sit","sit","predicates",NA
+"439","item_439","Kiswahili","WS","WS","word","action_words","Kimbia","Run","run","predicates",NA
+"440","item_440","Kiswahili","WS","WS","word","action_words","Kimbiza/fukuza","Chase","chase","predicates",NA
+"441","item_441","Kiswahili","WS","WS","word","action_words","kula","Eat","eat","predicates",NA
+"442","item_442","Kiswahili","WS","WS","word","action_words","Kumbatia/Hug","Hug","hug","predicates",NA
+"443","item_443","Kiswahili","WS","WS","word","action_words","kunywa","Drink","water (beverage)","predicates",NA
+"444","item_444","Kiswahili","WS","WS","word","action_words","kupa/Patia","Give","give","predicates",NA
+"445","item_445","Kiswahili","WS","WS","word","action_words","Kutaka/Taka","Want","clean (action)","predicates",NA
+"446","item_446","Kiswahili","WS","WS","word","action_words","Kwea/Panda","Climb","climb","predicates",NA
+"447","item_447","Kiswahili","WS","WS","word","action_words","Lala","SleepV","sleep","predicates",NA
+"448","item_448","Kiswahili","WS","WS","word","action_words","Lamba","Lick","lick","predicates",NA
+"449","item_449","Kiswahili","WS","WS","word","action_words","Leta","bring","bring","predicates",NA
+"450","item_450","Kiswahili","WS","WS","word","action_words","Lia","Cry","cry","predicates",NA
+"451","item_451","Kiswahili","WS","WS","word","action_words","Lisha","feed","feed","predicates",NA
+"452","item_452","Kiswahili","WS","WS","word","action_words","Maliza","Finish","close","predicates",NA
+"453","item_453","Kiswahili","WS","WS","word","action_words","Mwaga","Pour","light (action)","predicates",NA
+"454","item_454","Kiswahili","WS","WS","word","action_words","Mwagika","spill","spill","predicates",NA
+"455","item_455","Kiswahili","WS","WS","word","action_words","Ngoja","Wait","wait","predicates",NA
+"456","item_456","Kiswahili","WS","WS","word","action_words","Ni","is","be","predicates",NA
+"457","item_457","Kiswahili","WS","WS","word","action_words","Ning'inia/Pepesuka/Bembea","Hang on","hang","predicates",NA
+"458","item_458","Kiswahili","WS","WS","word","action_words","Nunua","Buy","buy","predicates",NA
+"459","item_459","Kiswahili","WS","WS","word","action_words","Nyegeresha/Tekerenya","Tickle","tickle","predicates",NA
+"460","item_460","Kiswahili","WS","WS","word","action_words","Ogelea","Swim","swim","predicates",NA
+"461","item_461","Kiswahili","WS","WS","word","action_words","Ona","See","see","predicates",NA
+"462","item_462","Kiswahili","WS","WS","word","action_words","Ongea","Speak","talk","predicates",NA
+"463","item_463","Kiswahili","WS","WS","word","action_words","Onja","Taste","taste","predicates",NA
+"464","item_464","Kiswahili","WS","WS","word","action_words","Onyesha","Show","show","predicates",NA
+"465","item_465","Kiswahili","WS","WS","word","action_words","Osha/nawa","Wash","clean (action)","predicates",NA
+"466","item_466","Kiswahili","WS","WS","word","action_words","Ota","Dream","star","predicates",NA
+"467","item_467","Kiswahili","WS","WS","word","action_words","Paka rangi","Paint","paint (action)","predicates",NA
+"468","item_468","Kiswahili","WS","WS","word","action_words","Pangusa/Futa","Wipe","wash","predicates",NA
+"469","item_469","Kiswahili","WS","WS","word","action_words","Pasua","Spill","break","predicates",NA
+"470","item_470","Kiswahili","WS","WS","word","action_words","Pata","Get","have","predicates",NA
+"471","item_471","Kiswahili","WS","WS","word","action_words","Penda","Love","love","predicates",NA
+"472","item_472","Kiswahili","WS","WS","word","action_words","Piga makofi","Clap","clap","predicates",NA
+"473","item_473","Kiswahili","WS","WS","word","action_words","Piga teke","Kick","kick","predicates",NA
+"474","item_474","Kiswahili","WS","WS","word","action_words","Pika","Cook","cook","predicates",NA
+"475","item_475","Kiswahili","WS","WS","word","action_words","Pokea","Receive","receive","predicates",NA
+"476","item_476","Kiswahili","WS","WS","word","action_words","Pulizia/Vuvia","Blow at","blow","predicates",NA
+"477","item_477","Kiswahili","WS","WS","word","action_words","Rarua/Pasua","Tear","break","predicates",NA
+"478","item_478","Kiswahili","WS","WS","word","action_words","Ruka","Jump","jump","predicates",NA
+"479","item_479","Kiswahili","WS","WS","word","action_words","Rusha","Throw","throw","predicates",NA
+"480","item_480","Kiswahili","WS","WS","word","action_words","Safisha","CleanV","wash","predicates",NA
+"481","item_481","Kiswahili","WS","WS","word","action_words","Saida","Help","help","predicates",NA
+"482","item_482","Kiswahili","WS","WS","word","action_words","Salimu","Greet","greet","predicates",NA
+"483","item_483","Kiswahili","WS","WS","word","action_words","Sema","Talk","say","predicates",NA
+"484","item_484","Kiswahili","WS","WS","word","action_words","Shiba","Be satisfied with food","full","predicates",NA
+"485","item_485","Kiswahili","WS","WS","word","action_words","Shika/Ganda/Kamata","Catch/hold","touch","predicates",NA
+"486","item_486","Kiswahili","WS","WS","word","action_words","Sikia","Hear","hear","predicates",NA
+"487","item_487","Kiswahili","WS","WS","word","action_words","Sikiliza","listen to","listen","predicates",NA
+"488","item_488","Kiswahili","WS","WS","word","action_words","Simama","Stand","stand","predicates",NA
+"489","item_489","Kiswahili","WS","WS","word","action_words","Sinzia","Doze off","sleepy","predicates",NA
+"490","item_490","Kiswahili","WS","WS","word","action_words","Soma","Read","read","predicates",NA
+"491","item_491","Kiswahili","WS","WS","word","action_words","Sukuma/Peleka","Push","push","predicates",NA
+"492","item_492","Kiswahili","WS","WS","word","action_words","Tafuta","Look for","find","predicates",NA
+"493","item_493","Kiswahili","WS","WS","word","action_words","Tazama/angalia","Look","look","predicates",NA
+"494","item_494","Kiswahili","WS","WS","word","action_words","Teleza/Nyiririka","slip","slide (action)","predicates",NA
+"495","item_495","Kiswahili","WS","WS","word","action_words","Tembea","Move around/walk","walk","predicates",NA
+"496","item_496","Kiswahili","WS","WS","word","action_words","Tengeneza","Make","make","predicates",NA
+"497","item_497","Kiswahili","WS","WS","word","action_words","Tingisha/Tikisa","Shake","shake","predicates",NA
+"498","item_498","Kiswahili","WS","WS","word","action_words","Uma","Bite","bite","predicates",NA
+"499","item_499","Kiswahili","WS","WS","word","action_words","Umia","Get hurt","hurt (action)","predicates",NA
+"500","item_500","Kiswahili","WS","WS","word","action_words","Vunja","Break","break","predicates",NA
+"501","item_501","Kiswahili","WS","WS","word","action_words","Vunjika","Break by itself","broken","predicates",NA
+"502","item_502","Kiswahili","WS","WS","word","action_words","Vuta","Pull","pull","predicates",NA
+"503","item_503","Kiswahili","WS","WS","word","action_words","Weka","Keep","put","predicates",NA
+"504","item_504","Kiswahili","WS","WS","word","action_words","Weza","Be able","can (auxiliary)","predicates",NA
+"505","item_505","Kiswahili","WS","WS","word","action_words","Zungumza","Talk or say something","talk","predicates",NA
+"506","item_506","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Baridi","Cold","cold","predicates",NA
+"507","item_507","Kiswahili","WS","WS","word","descriptive_words (adjectives)","baya","Bad","bad","predicates",NA
+"508","item_508","Kiswahili","WS","WS","word","descriptive_words (adjectives)","bovu","Rotten","rotten","predicates",NA
+"509","item_509","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Chache/Kidogo","Few","little (amount)","predicates",NA
+"510","item_510","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Chafu","Dirty","dirty","predicates",NA
+"511","item_511","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Choka","Get tired","tired","predicates",NA
+"512","item_512","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Dogo","small","little (description)","predicates",NA
+"513","item_513","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Dumu","Last long","tough","predicates",NA
+"514","item_514","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Furaha","happiness","happy","predicates",NA
+"515","item_515","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Giza","Darkness","dark","predicates",NA
+"516","item_516","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Gonjwa","Sick","sick","predicates",NA
+"517","item_517","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Haraka","Quick","fast","predicates",NA
+"518","item_518","Kiswahili","WS","WS","word","descriptive_words (adjectives)","hasira","Anger","angry","predicates",NA
+"519","item_519","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Iliyovunjika","One that has broken","broken","predicates",NA
+"520","item_520","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Imekwisha/Imeisha","Finished","finished","predicates",NA
+"521","item_521","Kiswahili","WS","WS","word","descriptive_words (adjectives)","kali","Hot tempered","severe","predicates",NA
+"522","item_522","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Kavu","Dry","dry (action)","predicates",NA
+"523","item_523","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Kelele","Noise","loud","predicates",NA
+"524","item_524","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Kijani kibichi","Green","green","predicates",NA
+"525","item_525","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Kimya/nyamavu","Quiet","quietly","predicates",NA
+"526","item_526","Kiswahili","WS","WS","word","descriptive_words (adjectives)","kiu","thirsty","thirsty","predicates",NA
+"527","item_527","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Kubwa","Big","big","predicates",NA
+"528","item_528","Kiswahili","WS","WS","word","descriptive_words (adjectives)","kwanza","First","first","predicates",NA
+"529","item_529","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Laini","Soft","soft","predicates",NA
+"530","item_530","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Lovu","Get wet","wet (description)","predicates",NA
+"531","item_531","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Macho/makini","Alert","alert","predicates",NA
+"532","item_532","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Maridadi/Smart","Beautiful, Smart","smart","predicates",NA
+"533","item_533","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Moto/Choma","Hot/fire","hot","predicates",NA
+"534","item_534","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Mpya","New","new","predicates",NA
+"535","item_535","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Mrefu/Ndefu","Long, tall","long","predicates",NA
+"536","item_536","Kiswahili","WS","WS","word","descriptive_words (adjectives)","mzuri","Good","good","predicates",NA
+"537","item_537","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Ngumu","Hard","hard","predicates",NA
+"538","item_538","Kiswahili","WS","WS","word","descriptive_words (adjectives)","njaa","Hunger","hungry","predicates",NA
+"539","item_539","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Nyekundu","Red","red","predicates",NA
+"540","item_540","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Nyeupe","White","white","predicates",NA
+"541","item_541","Kiswahili","WS","WS","word","descriptive_words (adjectives)","nyeusi","Black","black","predicates",NA
+"542","item_542","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Nzito","Thick/heavy","heavy","predicates",NA
+"543","item_543","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Nzuri","Good","good","predicates",NA
+"544","item_544","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Ogopa","Fear","scared","predicates",NA
+"545","item_545","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Polepole","Slowly","slow","predicates",NA
+"546","item_546","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Safi","CleanA","clean (description)","predicates",NA
+"547","item_547","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Samawati/Nili/Bluu","Blue","blue","predicates",NA
+"548","item_548","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Sauti ya juu","Loud","loud","predicates",NA
+"549","item_549","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Sawasawa","OK","ok","predicates",NA
+"550","item_550","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Tena","Again","again","predicates",NA
+"551","item_551","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Tupu","Empty","empty","predicates",NA
+"552","item_552","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Uma/umia","Got hurt","hurt (description)","predicates",NA
+"553","item_553","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Upepo","Wind","windy","predicates",NA
+"554","item_554","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Usingizini","SleepA","sleepy","predicates",NA
+"555","item_555","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Usinzini","Doze","sleepy","predicates",NA
+"556","item_556","Kiswahili","WS","WS","word","descriptive_words (adjectives)","Zee/Kinyanya","Old","tomato","predicates",NA
+"557","item_557","Kiswahili","WS","WS","word","time_words","Asubuhi","Morning","morning","other",NA
+"558","item_558","Kiswahili","WS","WS","word","time_words","Baadaye","Later","later","other",NA
+"559","item_559","Kiswahili","WS","WS","word","time_words","jana","Yesterday","yesterday","other",NA
+"560","item_560","Kiswahili","WS","WS","word","time_words","Jioni","Evening","evening","other",NA
+"561","item_561","Kiswahili","WS","WS","word","time_words","Kesho","Tommorrow","tomorrow","other",NA
+"562","item_562","Kiswahili","WS","WS","word","time_words","Leo","Today","today","other",NA
+"563","item_563","Kiswahili","WS","WS","word","time_words","Mchana","Daytime","day","other",NA
+"564","item_564","Kiswahili","WS","WS","word","time_words","Sasa","Now","now","other",NA
+"565","item_565","Kiswahili","WS","WS","word","time_words","Siku","Day","day","other",NA
+"566","item_566","Kiswahili","WS","WS","word","time_words","Siku nzima","Whole Day","NA","other",NA
+"567","item_567","Kiswahili","WS","WS","word","time_words","Usiku","Night","night","other",NA
+"568","item_568","Kiswahili","WS","WS","word","pronouns","Huyu","01dem1","this","function_words",NA
+"569","item_569","Kiswahili","WS","WS","word","pronouns","Yule","01dem2","that","function_words",NA
+"570","item_570","Kiswahili","WS","WS","word","pronouns","Huyo","01dem3","that","function_words",NA
+"571","item_571","Kiswahili","WS","WS","word","pronouns","Mwingine","01dem5","another","function_words",NA
+"572","item_572","Kiswahili","WS","WS","word","pronouns","Mwenye","01dem6","POSS","function_words",NA
+"573","item_573","Kiswahili","WS","WS","word","pronouns","Wangu","01ps1","1SG.POSS","function_words",NA
+"574","item_574","Kiswahili","WS","WS","word","pronouns","Wako","01ps2","2SG.POSS","function_words",NA
+"575","item_575","Kiswahili","WS","WS","word","pronouns","Wake","01ps3","3SG.POSS","function_words",NA
+"576","item_576","Kiswahili","WS","WS","word","pronouns","Wetu","01ps4","1PL.POSS","function_words",NA
+"577","item_577","Kiswahili","WS","WS","word","pronouns","Wenu","01ps5","2PL.POSS","function_words",NA
+"578","item_578","Kiswahili","WS","WS","word","pronouns","Wao","01ps6","3PL.POSS","function_words",NA
+"579","item_579","Kiswahili","WS","WS","word","pronouns","Hawa","02dem1","these","function_words",NA
+"580","item_580","Kiswahili","WS","WS","word","pronouns","Wale","02dem2","those","function_words",NA
+"581","item_581","Kiswahili","WS","WS","word","pronouns","Hao","02dem3","those","function_words",NA
+"582","item_582","Kiswahili","WS","WS","word","pronouns","Wote","02dem4","all","function_words",NA
+"583","item_583","Kiswahili","WS","WS","word","pronouns","Wengine","02dem5","other","function_words",NA
+"584","item_584","Kiswahili","WS","WS","word","pronouns","Wenye","02dem6","POSS","function_words",NA
+"585","item_585","Kiswahili","WS","WS","word","pronouns","Hili","05dem1","this","function_words",NA
+"586","item_586","Kiswahili","WS","WS","word","pronouns","Lile","05dem2","this","function_words",NA
+"587","item_587","Kiswahili","WS","WS","word","pronouns","Hilo","05dem3","that","function_words",NA
+"588","item_588","Kiswahili","WS","WS","word","pronouns","Lote","05dem4","that","function_words",NA
+"589","item_589","Kiswahili","WS","WS","word","pronouns","Lingine","05dem5","another","function_words",NA
+"590","item_590","Kiswahili","WS","WS","word","pronouns","Lenye","05dem6","POSS","function_words",NA
+"591","item_591","Kiswahili","WS","WS","word","pronouns","Langu","05ps1","1SG.POSS","function_words",NA
+"592","item_592","Kiswahili","WS","WS","word","pronouns","Lako","05ps2","2SG.POSS","function_words",NA
+"593","item_593","Kiswahili","WS","WS","word","pronouns","Lake","05ps3","3SG.POSS","function_words",NA
+"594","item_594","Kiswahili","WS","WS","word","pronouns","Letu","05ps4","1PL.POSS","function_words",NA
+"595","item_595","Kiswahili","WS","WS","word","pronouns","Lenu","05ps5","2PL.POSS","function_words",NA
+"596","item_596","Kiswahili","WS","WS","word","pronouns","Lao","05ps6","3PL.POSS","function_words",NA
+"597","item_597","Kiswahili","WS","WS","word","pronouns","Haya","06dem1","these","function_words",NA
+"598","item_598","Kiswahili","WS","WS","word","pronouns","Yale","06dem2","those","function_words",NA
+"599","item_599","Kiswahili","WS","WS","word","pronouns","Hayo","06dem3","those","function_words",NA
+"600","item_600","Kiswahili","WS","WS","word","pronouns","Yote","06dem4","all","function_words",NA
+"601","item_601","Kiswahili","WS","WS","word","pronouns","Mengine","06dem5","other","function_words",NA
+"602","item_602","Kiswahili","WS","WS","word","pronouns","Yenye","06dem6","POSS","function_words",NA
+"603","item_603","Kiswahili","WS","WS","word","pronouns","Hiki","07dem1","this","function_words",NA
+"604","item_604","Kiswahili","WS","WS","word","pronouns","kile","07dem2","this","function_words",NA
+"605","item_605","Kiswahili","WS","WS","word","pronouns","Hicho","07dem3","that","function_words",NA
+"606","item_606","Kiswahili","WS","WS","word","pronouns","Chote","07dem4","that","function_words",NA
+"607","item_607","Kiswahili","WS","WS","word","pronouns","Kingine","07dem5","another","function_words",NA
+"608","item_608","Kiswahili","WS","WS","word","pronouns","Changu","07ps1","1SG.POSS","function_words",NA
+"609","item_609","Kiswahili","WS","WS","word","pronouns","Chako","07ps2","2SG.POSS","function_words",NA
+"610","item_610","Kiswahili","WS","WS","word","pronouns","Chake","07ps3","3SG.POSS","function_words",NA
+"611","item_611","Kiswahili","WS","WS","word","pronouns","Chetu","07ps4","1PL.POSS","function_words",NA
+"612","item_612","Kiswahili","WS","WS","word","pronouns","Chenu","07ps5","2PL.POSS","function_words",NA
+"613","item_613","Kiswahili","WS","WS","word","pronouns","Chao","07ps6","3PL.POSS","function_words",NA
+"614","item_614","Kiswahili","WS","WS","word","pronouns","Hivi","08dem1","these","function_words",NA
+"615","item_615","Kiswahili","WS","WS","word","pronouns","Vile","08dem2","those","function_words",NA
+"616","item_616","Kiswahili","WS","WS","word","pronouns","Hivyo","08dem3","those","function_words",NA
+"617","item_617","Kiswahili","WS","WS","word","pronouns","Vingine","08dem4","other","function_words",NA
+"618","item_618","Kiswahili","WS","WS","word","pronouns","Hii","09dem1","this","function_words",NA
+"619","item_619","Kiswahili","WS","WS","word","pronouns","Ile","09dem2","that","function_words",NA
+"620","item_620","Kiswahili","WS","WS","word","pronouns","Hiyo","09dem3","that","function_words",NA
+"621","item_621","Kiswahili","WS","WS","word","pronouns","Yote","09dem4","all","function_words",NA
+"622","item_622","Kiswahili","WS","WS","word","pronouns","Nyingine","09dem5","other","function_words",NA
+"623","item_623","Kiswahili","WS","WS","word","pronouns","yenye","09dem6","POSS","function_words",NA
+"624","item_624","Kiswahili","WS","WS","word","pronouns","Yangu","09ps1","1SG.POSS","function_words",NA
+"625","item_625","Kiswahili","WS","WS","word","pronouns","Yako","09ps2","2SG.POSS","function_words",NA
+"626","item_626","Kiswahili","WS","WS","word","pronouns","Yake","09ps3","3SG.POSS","function_words",NA
+"627","item_627","Kiswahili","WS","WS","word","pronouns","Yetu","09ps4","1PL.POSS","function_words",NA
+"628","item_628","Kiswahili","WS","WS","word","pronouns","Yenu","09ps5","2PL.POSS","function_words",NA
+"629","item_629","Kiswahili","WS","WS","word","pronouns","Yao","09ps6","3PL.POSS","function_words",NA
+"630","item_630","Kiswahili","WS","WS","word","pronouns","Hizi","10dem1","these","function_words",NA
+"631","item_631","Kiswahili","WS","WS","word","pronouns","Zile","10dem2","those","function_words",NA
+"632","item_632","Kiswahili","WS","WS","word","pronouns","Hizo","10dem3","those","function_words",NA
+"633","item_633","Kiswahili","WS","WS","word","pronouns","Zote","10dem4","all","function_words",NA
+"634","item_634","Kiswahili","WS","WS","word","pronouns","Zenye","10dem6","POSS","function_words",NA
+"635","item_635","Kiswahili","WS","WS","word","pronouns","Zangu","10ps1","1SG.POSS","function_words",NA
+"636","item_636","Kiswahili","WS","WS","word","pronouns","Zako","10ps2","2SG.POSS","function_words",NA
+"637","item_637","Kiswahili","WS","WS","word","pronouns","Zake","10ps3","3SG.POSS","function_words",NA
+"638","item_638","Kiswahili","WS","WS","word","pronouns","Zetu","10ps4","1PL.POSS","function_words",NA
+"639","item_639","Kiswahili","WS","WS","word","pronouns","Zenu","10ps5","2PL.POSS","function_words",NA
+"640","item_640","Kiswahili","WS","WS","word","pronouns","Zao","10ps6","3PL.POSS","function_words",NA
+"641","item_641","Kiswahili","WS","WS","word","pronouns","Hapa","16dem1","this","function_words",NA
+"642","item_642","Kiswahili","WS","WS","word","pronouns","Pale","16dem2","this","function_words",NA
+"643","item_643","Kiswahili","WS","WS","word","pronouns","Hapo","16dem3","that","function_words",NA
+"644","item_644","Kiswahili","WS","WS","word","pronouns","Pengine","16dem5","another","function_words",NA
+"645","item_645","Kiswahili","WS","WS","word","pronouns","penye","16dem6","POSS","function_words",NA
+"646","item_646","Kiswahili","WS","WS","word","pronouns","Huku","17dem1","here","function_words",NA
+"647","item_647","Kiswahili","WS","WS","word","pronouns","Kule","17dem2","there","function_words",NA
+"648","item_648","Kiswahili","WS","WS","word","pronouns","Huko","17dem3","there","function_words",NA
+"649","item_649","Kiswahili","WS","WS","word","pronouns","kwote","17dem4","all","function_words",NA
+"650","item_650","Kiswahili","WS","WS","word","pronouns","Kungine","17dem5","another","function_words",NA
+"651","item_651","Kiswahili","WS","WS","word","pronouns","Kwangu","17ps1","1SG.POSS","function_words",NA
+"652","item_652","Kiswahili","WS","WS","word","pronouns","Kwako","17ps2","2SG.POSS","function_words",NA
+"653","item_653","Kiswahili","WS","WS","word","pronouns","Kwake","17ps3","3SG.POSS","function_words",NA
+"654","item_654","Kiswahili","WS","WS","word","pronouns","Kwetu","17ps4","1PL.POSS","function_words",NA
+"655","item_655","Kiswahili","WS","WS","word","pronouns","Kwenu","17ps5","2PL.POSS","function_words",NA
+"656","item_656","Kiswahili","WS","WS","word","pronouns","Kwao","17ps6","3PL.POSS","function_words",NA
+"657","item_657","Kiswahili","WS","WS","word","pronouns","Mimi","pers1","1SG","function_words",NA
+"658","item_658","Kiswahili","WS","WS","word","pronouns","Sisi","pers2","1PL","function_words",NA
+"659","item_659","Kiswahili","WS","WS","word","pronouns","Wewe","pers3","2SG","function_words",NA
+"660","item_660","Kiswahili","WS","WS","word","pronouns","Yeye","pers4","3SG","function_words",NA
+"661","item_661","Kiswahili","WS","WS","word","question_words","Gani","Which","which (question)","function_words",NA
+"662","item_662","Kiswahili","WS","WS","word","question_words","Ipi","Which one?","which (question)","function_words",NA
+"663","item_663","Kiswahili","WS","WS","word","question_words","Kwa nini","Why","why","function_words",NA
+"664","item_664","Kiswahili","WS","WS","word","question_words","Lini","When","when (question)","function_words",NA
+"665","item_665","Kiswahili","WS","WS","word","question_words","Nani","Who","who","function_words",NA
+"666","item_666","Kiswahili","WS","WS","word","question_words","Ngapi","how many","NA","function_words",NA
+"667","item_667","Kiswahili","WS","WS","word","question_words","Nini","what","why","function_words",NA
+"668","item_668","Kiswahili","WS","WS","word","question_words","Vipi","How","how","function_words",NA
+"669","item_669","Kiswahili","WS","WS","word","question_words","Wapi","Where","where (question)","function_words",NA
+"670","item_670","Kiswahili","WS","WS","word","prepositions","Chini","Down","down","function_words",NA
+"671","item_671","Kiswahili","WS","WS","word","prepositions","Hapa","here","here","function_words",NA
+"672","item_672","Kiswahili","WS","WS","word","prepositions","Jirani","next to","neigh","function_words",NA
+"673","item_673","Kiswahili","WS","WS","word","prepositions","Juu","on top of/up","up","function_words",NA
+"674","item_674","Kiswahili","WS","WS","word","prepositions","Kando","besides","beside","function_words",NA
+"675","item_675","Kiswahili","WS","WS","word","prepositions","Kando kando","At the edge","NA","function_words",NA
+"676","item_676","Kiswahili","WS","WS","word","prepositions","Karibu","near","near","function_words",NA
+"677","item_677","Kiswahili","WS","WS","word","prepositions","Katika","inside","at","function_words",NA
+"678","item_678","Kiswahili","WS","WS","word","prepositions","Kwa","at","for","function_words",NA
+"679","item_679","Kiswahili","WS","WS","word","prepositions","Kwenye","Where there is","into","function_words",NA
+"680","item_680","Kiswahili","WS","WS","word","prepositions","Mbali","Far","away","function_words",NA
+"681","item_681","Kiswahili","WS","WS","word","prepositions","Ndani","inside","inside","function_words",NA
+"682","item_682","Kiswahili","WS","WS","word","prepositions","Nje","Outside","out","function_words",NA
+"683","item_683","Kiswahili","WS","WS","word","prepositions","Nyuma","behind","back (preposition)","function_words",NA
+"684","item_684","Kiswahili","WS","WS","word","prepositions","Pale","there","there","function_words",NA
+"685","item_685","Kiswahili","WS","WS","word","prepositions","Ya","of","of","function_words",NA
+"686","item_686","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Bila","Without","NA","predicates",NA
+"687","item_687","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Hakuna","None","none","predicates",NA
+"688","item_688","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Kila","every","everyone","predicates",NA
+"689","item_689","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Nyingine","Another","another","predicates",NA
+"690","item_690","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Pia","also","also","predicates",NA
+"691","item_691","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Sana","Very much","a lot","predicates",NA
+"692","item_692","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Sawa","Same","same","predicates",NA
+"693","item_693","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Siyo","Not that","not","predicates",NA
+"694","item_694","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Tele/Nyingi","Lots","NA","predicates",NA
+"695","item_695","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Yote","All of it","everything","predicates",NA
+"696","item_696","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Yoyote","any","any","predicates",NA
+"697","item_697","Kiswahili","WS","WS","word","descriptive_words (adverbs)","Zaidi","more","more","predicates",NA
+"698","item_698","Kiswahili","WS","WS","word","connecting_words","Ama/au","Or","or","function_words",NA
+"699","item_699","Kiswahili","WS","WS","word","connecting_words","Angaa/angalau","Atleast","NA","function_words",NA
+"700","item_700","Kiswahili","WS","WS","word","connecting_words","Halafu","Then","then","function_words",NA
+"701","item_701","Kiswahili","WS","WS","word","connecting_words","Kwa hivyo","So","so","function_words",NA
+"702","item_702","Kiswahili","WS","WS","word","connecting_words","lakini","But","but","function_words",NA
+"703","item_703","Kiswahili","WS","WS","word","connecting_words","Na","And","and","function_words",NA
+"704","item_704","Kiswahili","WS","WS","word","connecting_words","Pamoja na","together with","together","function_words",NA
+"705","item_705","Kiswahili","WS","WS","word","connecting_words","Sababu","because","because","function_words",NA
