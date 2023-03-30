@@ -1,7 +1,7 @@
 ss08_nouns.txt
 
-NOUNS M/MI REGULAR
 singular;       plural;         english
+NOUNS M/MI REGULAR
 mbuyu;          mibuyu;         Baobab tree
 mchezo;         michezo;        game, toy
 mfereji;        mifereji;       ditch
@@ -21,13 +21,11 @@ mto;            mito;           pillow, river
 mzigo;          mizigo;         load, luggage, burden
 
 NOUNS M/MI VOWELS O-IO
-singular;       plural;         english
 moshi;          mioshi;         smoke
 moto;           mioto;          fire, heat
 moyo;           mioyo;          heart
 
 NOUNS M/MI VOWELS W-I+
-singular;       plural;         english
 mwaka;          miaka;          year
 mwembe;         miembe;         mango tree
 mwendo;         miendo;         speed, journey

@@ -1,5 +1,6 @@
 ss08_verbs.txt
 
+infinitive;     english
 REGULAR VERBS
 kufaa;          be suitable, of good use
 kuficha;        hide

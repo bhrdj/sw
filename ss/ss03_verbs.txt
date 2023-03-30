@@ -1,7 +1,8 @@
 ss03_verbs.txt
 
-REGULAR VERBS
+
 infinitive;     english
+REGULAR VERBS
 kuanguka;       fall
 kufanya;        do, make
 kufika;         arrive
@@ -27,7 +28,6 @@ kuweka;         put
 kuweza;         to be able to
 
 ARABIC VERBS
-infinitive;     english
 kubaki;         remain, left over
 kufaulu;        succeed
 kufikiri;       think, consider
@@ -41,7 +41,6 @@ kusafiri;       travel
 kusamehe;       forgive, sacrifice
 
 IRREGULAR VERBS
-infinitive;     english
 kufa;           die
 kuja;           come
 kula;           eat

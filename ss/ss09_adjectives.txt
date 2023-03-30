@@ -1,5 +1,6 @@
 ss03_adjectives.txt
 
+stem;           english
 CONSONANT STEM ADJECTIVES
 -baya;          bad
 -bovu;          rotten

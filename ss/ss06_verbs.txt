@@ -1,7 +1,7 @@
 ss06_nouns.txt
 
-VERBS
 infinitive;     english
+VERBS
 kuamka;         wake up
 kuanza;         start, begin
 kuchukua;       carry, take

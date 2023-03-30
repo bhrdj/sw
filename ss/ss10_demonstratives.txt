@@ -1,8 +1,9 @@
 s10_demonstratives.txt
 
+
+English;        M-WA;           M-MI
 DEMONSTRATIVES OF DISTANCE
-English         M-WA            M-MI
-this            huyu            huu
-these           hawa            hii
-that            yule            ule
-those           wale            ile
+this;           huyu;           huu
+these;          hawa;           hii
+that;           yule;           ule
+those;          wale;           ile
