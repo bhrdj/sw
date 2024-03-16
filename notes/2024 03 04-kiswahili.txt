@@ -32,14 +32,18 @@ Nishike mkono ndugu, niweze kufika mbali
    sonorant before unvoiced plosive -> 2 syllables (mpaka)
    sonorant before voiced fricative (Z) -> 2 syllables (mzizi, nzuri)
    sonorant before unvoiced fricative (S/SH) -> 2 syllables (msafiri, mshahara)
-   
-   
-   
+
 Kuna wewe ndugu Randu, uliyepasua anga
    pasua = break
    anga = hewa = air
 Nitoe za macho yangu, yasiweze kunichenga
-Naamini bandubandu, nitaweza ana mwanga
+   Kutoa za macho yangu = show me
+Naamini bandubandu, nitaweza ona mwanga
+   amani = peace
+   amini = faith
+   tumaini(T) = to believe 
+   amini(T) = to have faith
+   bandubandu = kabisa kabisa
 Nishike mkono ndugu, niweze kufika mbali
 
 Na wewe Juma Mukwambo, vina fundisha kupanga
@@ -59,6 +63,7 @@ Nishike mkono ndugu, niweze kufika mbali
          Vina ni irabu kwa miisho ya sentensi katika shairi, zinazofanana.
          aya = paragraph
          ubeti = stanza
+         tungo = work of art. mf: tungo la sanaa
          Kibwagizo = last sentence of each paragraph of shairi, always repeated. refrain.
          Sentensi ya mwisho inarudiwarudiwa katika kila ubeti.
 
@@ -67,6 +72,56 @@ panga(T) = to plan / to arrange
 mpango/mipango = plans
 pango/mapango = small cave / home
 shimo = hole
+
+Ewe Paulo Ndetei, hebu nitoe ujinga
+   ewe = wewe
+   hebu = tafadhali
+Niwe kama Kosgei, nishinde Kenya na Tanga
+   Niwe kama Kosgei = Let me be like Kosgei / so that I may be like Kosgei
+Najua haukosei, mshabaha ukilenga
+   haukosei ~ kosa(T) -> kosea(T) -> kukanusha nafsi ya mpili
+   mshabaha = arrow
+   lenga(T) = to aim
+Nishike mkono ndugu, niweze kufika mbali
+
+Rafiki yangu ulemaa, wewe wa tungo mganga
+   ??? why ulemaa
+   kilema = disabled
+   lemaa(T) = to be disabled
+   mfano: Umelemaa mguu.
+   wewe wa tungo mganga = wewe ni mganga wa matungo
+Mwenzio nayo tamaa, niweze vyema kutunga
+   Mwenzio, nina tamaa niweze vyema kutunga.
+   I'm missing this use of the O-Rejeshi! 
+   mwenzio = friend (of speaker)
+   Kazi ambayo ninatamaani.
+   Mwenzio ambaye ninatamaa kwa kazi.
+   Mwenzio anaye kuwa na kazi nzuri.
+   Mwenzio, ninatamaa kwa kazi yako.
+   Mwenzio, ninatamaa ambayo unaweza kunisaidia.
+   Mwenzio, unisaidie na kazi yako inayonipa tamaa.
+   Mwenzio, kazi unisaidie na 
+   Mimi ninayotamaa, unawe
+   tamaani(T) = desire (transitive)
+   tamaa(T) = urge (intransitive)
+   ninayotamaa *****
+Jaribu kuniandaa, fani siweze bananga
+   andaa(T) = tayarisha(T)
+   fani = tungo kama shairi
+   bananga = haribika
+Nishike mkono ndugu, niweze kufika mbali
+
+Nina mengi ya kuomba, meli ishangoa nanga
+   meli ishangoa nanga = ship lifted anchor
+Nikija weza kutamba, na ahidi sitoringa
+   tamba(T) = to spread: Kifo cha rais kimetamba duniani nzima.
+   ahidi = promise
+   ringa(T) = to show-off: Kijana anaringa mchezo mpya wake.
+   If I come my ability will spread, and promise I will not show-off 
+Nitakumbuka muumba, ndipo hapo ninafunga
+   muumba = creator
+   ndipo hapo = at that very place
+Nishike mkono ndugu, niweze kufika mbali
 
 ---------------------
 
@@ -88,5 +143,17 @@ Panya aliyerarua godoro ni kubwa.      OK
 Panya aliyenirarulia godoro ni mkali.  OK
 
  -> Tunaweka kiambishi cha kiwakilishi cha mtendwa katika sehemu O-rejeshi tu kama mtendwa ako kabla ya kitenzi O-rejeshi. Kama mtendaji ako kabla ya kitenzi O-rejeshi, lazima viambishi vya viwakilishi vyote virejelee mtendaji wa kitenzi O-rejeshi.
+
+----------------------
+kituo = fullstop
+**Tukizingatia** vitendo ambavyo hutendwa na watu. 
+Tunapata nomino ambazo ni watendwa wa vitendo hivyo kwa kawaida.
+Kisha, kumbe zinajitenda zenyewe na kiambishi cha mwisho "ka" kama vile: pikika, someka, chezeka.
+Kwenye hali hiyo, maana yanatoka: nomino hizo zinaweza tendwa.
+
+Mifano:
+Chakula hiki kitapikika. = This food will cook well. = This food is cookable.
+Maandishi hayo yanasomeka. = This writing will read. = This writing is legible.
+----------------------
 
 
